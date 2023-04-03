@@ -1,0 +1,15 @@
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\bin\Debug\net7.0\ToPascalCase.deps.json
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\bin\Debug\net7.0\ToPascalCase.dll
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\bin\Debug\net7.0\ToPascalCase.pdb
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\bin\Debug\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\bin\Debug\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.csproj.CopyComplete
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.dll
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\refint\ToPascalCase.dll
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ToPascalCase.pdb
+D:\Workspace\C#\wpf-app\20120555\ToPascalCase\obj\Debug\net7.0\ref\ToPascalCase.dll

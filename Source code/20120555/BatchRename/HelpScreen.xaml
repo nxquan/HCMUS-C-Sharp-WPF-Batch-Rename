@@ -1,0 +1,24 @@
+﻿<Window x:Class="BatchRename.HelpScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BatchRename"
+        mc:Ignorable="d"
+        Title="HelpScreen" Height="300" Width="800">
+    <WrapPanel Orientation="Vertical" Margin="10">
+        <Label Content="Batch Rename" FontWeight="Bold" FontSize="24" HorizontalContentAlignment="Center" />
+        <TextBlock Text="Xin chào mọi người! Batch Rename là ứng dụng đổi tên hàng loạt cho các loại files. Ứng dụng sẽ đổi tên dựa vào luật đã được cài đặt sẵn. Người dùng có thể thay đổi trạng thái hoặc chỉnh sửa tham số các luật. Bên cạnh đó, còn có thể thay đổi thứ tự các luật để đạt được tên mong muốn!" TextWrapping="Wrap"/>
+        <TextBlock Text="**Hiện tại chương trình còn nhiều phần chưa hoàn thiện. Mong mọi người thông cảm**" FontStyle="Italic"/>
+        <TextBlock Text="Chức năng:" FontWeight="Bold" />
+        <TextBlock Text="- Refresh: Xóa bỏ tất cả các rule và files hiện đang có" />
+        <TextBlock Text="- Help: Trợ giúp" />
+
+        <TextBlock Text="- Start batch: Đổi tên" />
+        <TextBlock Text="- Icon new file: Tải danh sách các rules" />
+        <TextBlock Text="- Icon save file: Lưu danh sách các rule ở dạng text hoặc json" />
+
+        <TextBlock Text="- Sidebar: Danh sách các rule của chương trình" />
+        <TextBlock Text="- Phần màn hình bên phải là khu vực tương tác file:" />
+    </WrapPanel>
+</Window>

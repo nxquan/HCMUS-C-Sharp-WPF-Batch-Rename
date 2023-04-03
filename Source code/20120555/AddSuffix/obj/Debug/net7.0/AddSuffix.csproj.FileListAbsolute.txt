@@ -1,0 +1,15 @@
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\bin\Debug\net7.0\AddSuffix.deps.json
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\bin\Debug\net7.0\AddSuffix.dll
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\bin\Debug\net7.0\AddSuffix.pdb
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\bin\Debug\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\bin\Debug\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.csproj.CopyComplete
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.dll
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\refint\AddSuffix.dll
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\AddSuffix.pdb
+D:\Workspace\C#\wpf-app\20120555\AddSuffix\obj\Debug\net7.0\ref\AddSuffix.dll

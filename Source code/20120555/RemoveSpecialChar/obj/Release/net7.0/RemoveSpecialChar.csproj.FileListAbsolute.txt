@@ -1,0 +1,15 @@
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\bin\Release\net7.0\RemoveSpecialChar.deps.json
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\bin\Release\net7.0\RemoveSpecialChar.dll
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\bin\Release\net7.0\RemoveSpecialChar.pdb
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\bin\Release\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\bin\Release\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.csproj.CopyComplete
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.dll
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\refint\RemoveSpecialChar.dll
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\RemoveSpecialChar.pdb
+D:\Workspace\C#\wpf-app\20120555\RemoveSpecialChar\obj\Release\net7.0\ref\RemoveSpecialChar.dll

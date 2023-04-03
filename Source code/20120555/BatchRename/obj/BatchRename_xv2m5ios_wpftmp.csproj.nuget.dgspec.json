@@ -1,0 +1,627 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\BatchRename\\BatchRename.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\AddCounter\\AddCounter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddCounter\\AddCounter.csproj",
+        "projectName": "AddCounter",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddCounter\\AddCounter.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddCounter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\AddPrefix\\AddPrefix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddPrefix\\AddPrefix.csproj",
+        "projectName": "AddPrefix",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddPrefix\\AddPrefix.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddPrefix\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\AddSuffix\\AddSuffix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddSuffix\\AddSuffix.csproj",
+        "projectName": "AddSuffix",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddSuffix\\AddSuffix.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddSuffix\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\BatchRename\\BatchRename.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\BatchRename\\BatchRename.csproj",
+        "projectName": "BatchRename",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\BatchRename\\BatchRename.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\BatchRename\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\AddCounter\\AddCounter.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddCounter\\AddCounter.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\AddPrefix\\AddPrefix.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddPrefix\\AddPrefix.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\AddSuffix\\AddSuffix.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\AddSuffix\\AddSuffix.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtension.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtension.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\OneSpace\\OneSpace.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\OneSpace\\OneSpace.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\RemoveSpecialChar\\RemoveSpecialChar.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\RemoveSpecialChar\\RemoveSpecialChar.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\ToLowerCaseAndRemoveSpace\\ToLowerCaseAndRemoveSpace.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ToLowerCaseAndRemoveSpace\\ToLowerCaseAndRemoveSpace.csproj"
+              },
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\Trim\\Trim.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\Trim\\Trim.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "FontAwesome.WPF": {
+              "target": "Package",
+              "version": "[4.7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtension.csproj",
+        "projectName": "ChangeExtension",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtension.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\OneSpace\\OneSpace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\OneSpace\\OneSpace.csproj",
+        "projectName": "OneSpace",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\OneSpace\\OneSpace.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\OneSpace\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\RemoveSpecialChar\\RemoveSpecialChar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\RemoveSpecialChar\\RemoveSpecialChar.csproj",
+        "projectName": "RemoveSpecialChar",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\RemoveSpecialChar\\RemoveSpecialChar.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\RemoveSpecialChar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\ToLowerCaseAndRemoveSpace\\ToLowerCaseAndRemoveSpace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\ToLowerCaseAndRemoveSpace\\ToLowerCaseAndRemoveSpace.csproj",
+        "projectName": "ToLowerCaseAndRemoveSpace",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ToLowerCaseAndRemoveSpace\\ToLowerCaseAndRemoveSpace.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ToLowerCaseAndRemoveSpace\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\Trim\\Trim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\Trim\\Trim.csproj",
+        "projectName": "Trim",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\Trim\\Trim.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\Trim\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

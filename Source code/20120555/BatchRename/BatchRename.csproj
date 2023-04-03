@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+	  <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AddCounter\AddCounter.csproj" />
+    <ProjectReference Include="..\AddPrefix\AddPrefix.csproj" />
+    <ProjectReference Include="..\AddSuffix\AddSuffix.csproj" />
+    <ProjectReference Include="..\ChangeExtensionRule\ChangeExtension.csproj" />
+    <ProjectReference Include="..\IRule\Contract.csproj" />
+    <ProjectReference Include="..\OneSpace\OneSpace.csproj" />
+    <ProjectReference Include="..\RemoveSpecialChar\RemoveSpecialChar.csproj" />
+    <ProjectReference Include="..\ToLowerCaseAndRemoveSpace\ToLowerCaseAndRemoveSpace.csproj" />
+    <ProjectReference Include="..\ToPascalCase\ToPascalCase.csproj" />
+    <ProjectReference Include="..\Trim\Trim.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="RuleAndThreeParam.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="history\files.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="history\rules.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

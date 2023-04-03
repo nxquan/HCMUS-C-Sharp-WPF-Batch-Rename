@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtensionRule.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtensionRule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtensionRule.csproj",
+        "projectName": "ChangeExtensionRule",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\ChangeExtensionRule.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\ChangeExtensionRule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+                "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\Contract.csproj",
+        "packagesPath": "C:\\Users\\nxquan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\C#\\wpf-app\\20120555\\IRule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

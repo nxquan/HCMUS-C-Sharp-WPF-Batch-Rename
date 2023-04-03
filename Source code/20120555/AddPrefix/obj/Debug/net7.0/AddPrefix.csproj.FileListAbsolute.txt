@@ -1,0 +1,15 @@
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\bin\Debug\net7.0\AddPrefix.deps.json
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\bin\Debug\net7.0\AddPrefix.dll
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\bin\Debug\net7.0\AddPrefix.pdb
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\bin\Debug\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\bin\Debug\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.csproj.CopyComplete
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.dll
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\refint\AddPrefix.dll
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\AddPrefix.pdb
+D:\Workspace\C#\wpf-app\20120555\AddPrefix\obj\Debug\net7.0\ref\AddPrefix.dll

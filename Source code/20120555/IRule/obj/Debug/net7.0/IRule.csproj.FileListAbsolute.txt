@@ -1,0 +1,12 @@
+D:\Workspace\C#\wpf-app\20120555\IRule\bin\Debug\net7.0\IRule.deps.json
+D:\Workspace\C#\wpf-app\20120555\IRule\bin\Debug\net7.0\IRule.dll
+D:\Workspace\C#\wpf-app\20120555\IRule\bin\Debug\net7.0\IRule.pdb
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.dll
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\refint\IRule.dll
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\IRule.pdb
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\ref\IRule.dll

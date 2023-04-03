@@ -1,0 +1,15 @@
+D:\Workspace\C#\wpf-app\20120555\Trim\bin\Debug\net7.0\Trim.deps.json
+D:\Workspace\C#\wpf-app\20120555\Trim\bin\Debug\net7.0\Trim.dll
+D:\Workspace\C#\wpf-app\20120555\Trim\bin\Debug\net7.0\Trim.pdb
+D:\Workspace\C#\wpf-app\20120555\Trim\bin\Debug\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\Trim\bin\Debug\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.csproj.CopyComplete
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.dll
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\refint\Trim.dll
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\Trim.pdb
+D:\Workspace\C#\wpf-app\20120555\Trim\obj\Debug\net7.0\ref\Trim.dll

@@ -1,0 +1,7 @@
+RemoveSpecialChar -,+,_
+ChangeExtension docx
+AddCounter Start=1,Step=2,NumberOfDigit=3
+OneSpace 
+AddPrefix CV
+AddSuffix google
+ToPascalCase 

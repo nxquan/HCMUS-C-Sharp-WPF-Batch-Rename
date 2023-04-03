@@ -1,0 +1,23 @@
+﻿<Window x:Class="BatchRename.RuleAndThreeParam"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BatchRename"
+        mc:Ignorable="d"
+        Title="Change Rule" Height="200" Width="300">
+    <Canvas>
+        <TextBlock Text="{Binding NameRule}" Height="20" Width="300" TextAlignment="Center" Canvas.Top="10" FontWeight="DemiBold" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Start: " FontSize="10" Canvas.Top="34" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.265,0.508" />
+        <TextBox Text="{Binding Start}" Width="179" Canvas.Left="90" Canvas.Top="34" HorizontalAlignment="Left" VerticalAlignment="Center" />
+
+        <TextBox Text="{Binding Step}" Width="179" Canvas.Left="90" Canvas.Top="59" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Label Content="Step: " FontSize="10" Canvas.Top="59" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.265,0.508" />
+
+        <TextBox Text="{Binding NumberOfDigits}" Width="179" Canvas.Left="90" Canvas.Top="85" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Label Content="Number of digits: " FontSize="10" Canvas.Top="80" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.265,0.508" />
+
+        <Button Name="edit" Content="Edit" Width="40" Height="20" IsDefault="True" Click="edit_Click" Canvas.Left="215" Canvas.Top="115" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.657,0.041" />
+        <Button Name="cancel" Content="Cancel" Width="40" Height="20" IsDefault="True" Click="cancel_Click" Canvas.Left="110" Canvas.Top="115" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    </Canvas>
+</Window>

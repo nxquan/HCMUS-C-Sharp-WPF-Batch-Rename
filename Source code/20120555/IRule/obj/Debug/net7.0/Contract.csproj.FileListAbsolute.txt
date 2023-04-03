@@ -1,0 +1,12 @@
+D:\Workspace\C#\wpf-app\20120555\IRule\bin\Debug\net7.0\Contract.deps.json
+D:\Workspace\C#\wpf-app\20120555\IRule\bin\Debug\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\IRule\bin\Debug\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\refint\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\IRule\obj\Debug\net7.0\ref\Contract.dll

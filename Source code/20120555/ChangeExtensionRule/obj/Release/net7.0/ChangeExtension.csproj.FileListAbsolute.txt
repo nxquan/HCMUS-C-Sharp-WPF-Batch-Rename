@@ -1,0 +1,15 @@
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\bin\Release\net7.0\ChangeExtension.deps.json
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\bin\Release\net7.0\ChangeExtension.dll
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\bin\Release\net7.0\ChangeExtension.pdb
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\bin\Release\net7.0\Contract.dll
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\bin\Release\net7.0\Contract.pdb
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.csproj.AssemblyReference.cache
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.AssemblyInfoInputs.cache
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.AssemblyInfo.cs
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.csproj.CopyComplete
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.dll
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\refint\ChangeExtension.dll
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ChangeExtension.pdb
+D:\Workspace\C#\wpf-app\20120555\ChangeExtensionRule\obj\Release\net7.0\ref\ChangeExtension.dll
