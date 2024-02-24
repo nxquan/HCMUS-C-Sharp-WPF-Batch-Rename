@@ -5,7 +5,9 @@
 ***MSSV*: 20120555**
 
 ***Email*: 20120555@student.hcmus.edu.vn**
-**Original Description: ** https://www.notion.so/Project-batch-rename-2022-9dc9eb9c9d674dbdb4a988a3794d1335
+
+***Original Description:*** https://www.notion.so/Project-batch-rename-2022-9dc9eb9c9d674dbdb4a988a3794d1335
+
 # Đồ án: Batch Rename
 ***Hoàn thành:*** 
 **A. Core requirements (7 points):**
